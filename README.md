@@ -5,7 +5,7 @@ NexusAI is a next-generation Market Intelligence tool designed to transform unst
 By leveraging Natural Language Processing (NLP) and Graph Theory, NexusAI reads text (such as news articles, reviews, or competitor reports) and automatically maps the relationships between Companies, Features, and Pricing.
 
 🚀 Features
-Live demo : https://nexus-ai-sumanta.streamlit.app
+Live demo : (https://nexus-ai-engine.streamlit.app/)
 
 Knowledge Graph Visualization: Automatically builds a network graph connecting organizations, product features, and pricing points.
 
@@ -85,3 +85,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 MIT
+
